@@ -1,9 +1,0 @@
----
-title: "Finding Usable Data"
-author: "Tanner Jensen"
-date: "2022-10-05"
-categories: [news, analysis]
----
-
-We just found some awesome data how-dee-do
-
