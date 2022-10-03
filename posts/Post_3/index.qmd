@@ -1,0 +1,9 @@
+---
+title: "Finding Usable Data"
+author: "Tanner Jensen"
+date: "2022-10-05"
+categories: [news, analysis]
+---
+
+The data 
+
