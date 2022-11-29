@@ -5,5 +5,25 @@ date: "2022-10-05"
 categories: [news, analysis]
 ---
 
-The data 
+
+One of the most important steps of this project is finding adequate data to make a neural network work. The data needed for this project will be similar to that of data used in linear regression, gathering a multitude of numeric values to predict a numeric value such as an age, income, or price. Because of the multitude of data availvabel o nte internet, the question isn't 'will I find some data to amke my model run' but 'what are some requirements of the data needed to make this model perform well?'
+
+In order for a model to be trained appropriately, the data needs to contain anywhere from at least 5-10 thousand rows. The data must also be 100% numeric. Similar to decision trees or logistic regression models, neural networks can predict classifications in the form of a 1 or a 0. Neural netowrks can also be used to predict a numeric value, similar to a linear regression or gradient-boosted regression models. 
+
+In the past, I've had great luck in finding datasets on data.world  and kaggle, but this time I widened my search to include sites such as Data.gov, The World Bank, and Google Public Data. 
+
+
+
+Sites Explored for Data:
+
+data.world https://data.world/
+kaggle https://www.kaggle.com/
+Makeover Monday https://www.makeovermonday.co.uk/data/
+Data.gov https://data.gov/
+usa.gov https://www.usa.gov/statistics
+The World Bank https://datacatalog.worldbank.org/home
+Google Public Data https://www.google.com/publicdata/directory
+California Open Data https://data.ca.gov/
+
+
 

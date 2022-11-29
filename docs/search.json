@@ -60,7 +60,7 @@
     "href": "posts/Post_3/index.html",
     "title": "Finding Usable Data",
     "section": "",
-    "text": "The data"
+    "text": "In order for a model to be trained appropriately, the data needs to contain anywhere from at least 5-10 thousand rows. The data must also be 100% numeric. Similar to decision trees or logistic regression models, neural networks can predict classifications in the form of a 1 or a 0. Neural netowrks can also be used to predict a numeric value, similar to a linear regression or gradient-boosted regression models.\nIn the past, I’ve had great luck in finding datasets on data.world and kaggle, but this time I widened my search to include sites such as Data.gov, The World Bank, and Google Public Data.\nSites Explored for Data:\ndata.world https://data.world/ kaggle https://www.kaggle.com/ Makeover Monday https://www.makeovermonday.co.uk/data/ Data.gov https://data.gov/ usa.gov https://www.usa.gov/statistics The World Bank https://datacatalog.worldbank.org/home Google Public Data https://www.google.com/publicdata/directory California Open Data https://data.ca.gov/"
   },
   {
     "objectID": "posts/Post_4/index.html",
